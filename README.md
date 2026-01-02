@@ -1,5 +1,25 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi there! I'm Harsh Verma👋
+
+### 👨‍💻 B.Tech Computer Science Student @ GLA University (3rd Year)
+
+I am an aspiring software engineer passionate about building impactful technology. I spend my time solving algorithmic challenges, building web applications, and exploring new frameworks. I believe in continuous learning and contributing to the developer community.
+
+---
+
+### 🚀 About Me
+* 🔭 **I’m currently working on** building full-stack applications and refining my portfolio projects.
+* 👯 **I’m looking to collaborate on** innovative Open Source projects and team-based hackathons.
+* 🤝 **I’m looking for help with** mastering advanced system design and cloud architecture.
+* 🌱 **I’m currently learning** Data Structures & Algorithms (DSA) and [Insert Tech, e.g., React or AWS].
+* 💬 **Ask me about** Java, Web Development, or my journey at GLA University.
+* ⚡ **Fun fact** I spend more time naming my variables than actually writing the logic!
+
+---
+
+### 🛠 Tech Stack
+* **Languages:** Java, Python, C, JavaScript
+* **Web:** HTML, CSS, React, Node.js
+* **Tools:** Git, GitHub, VS Code, Docker
 
 
 ## 🌐 Socials:
