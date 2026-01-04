@@ -18,8 +18,8 @@ I am an aspiring software engineer passionate about building impactful technolog
 
 ### 🛠 Tech Stack
 * **Languages:** Java, Python, C, JavaScript.
-* **Web:** HTML, CSS, React, Node.js
-* **Tools:** Git, GitHub, VS Code, Docker , AWS
+* **Web:** HTML, CSS, React, Node.js 
+* **Tools:** Git, GitHub, VS Code, Docker , AWS.
 
 
 ## 🌐 Socials:
